@@ -1,16 +1,43 @@
-# chat_app
+# 💬 Flutter Chat App with Firebase 🔔
 
-A new Flutter project.
+A real-time chat application built using **Flutter** and **Firebase**, complete with push notifications. This project is inspired by the Udemy course **"Flutter & Dart – The Complete Guide"** by Maximilian Schwarzmüller.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 Firebase Authentication (Email & Password)
+- 💬 Real-time Messaging with Firestore
+- 📲 Push Notifications using Firebase Cloud Messaging (FCM)
+- 📷 Image Uploads using Firebase Storage
+- 🎯 Modern UI using Flutter Widgets
+- 🧪 Deployed Firebase Cloud Functions (2nd Gen)
+- 🌐 Platform: Android & Web-ready
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** & **Dart**
+- **Firebase Auth**
+- **Cloud Firestore**
+- **Firebase Cloud Messaging**
+- **Firebase Storage**
+- **Firebase Functions (v2, Node.js 20)**
+
+---
+
+## 🧑‍🎓 Course Credit
+
+This project is based on the Udemy course:
+> 🎓 [Flutter & Dart – The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
+Instructor: **Maximilian Schwarzmüller**
+
+---
+
+## 📦 Setup Instructions
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Vansh-1007/flutter-chat-app.git
+   cd flutter-chat-app
